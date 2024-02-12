@@ -25,7 +25,7 @@ The Music Genre Classification System aims to predict the genre of songs based o
 
 
 ## How to Run:
-To run the game, ensure you have Python installed along with the required libraries mentioned above. Then, execute the provided Python script (main.py) in your preferred Python environment.
+To execute the program, ensure that you have Python installed, along with the necessary libraries listed in the requirements.txt file. The next step is to follow the instructions in przgotowanie_danych.ipynb and modele.ipynb notebooks. Upon completion of these steps, serialized models should be generated in the artifacts folder. You can then run the microservice by executing the command "uvicorn main:app --reload" from the services folder.
 
 ## Future Enhancements: 
 - bImplement more sophisticated neural network architectures for improved genre prediction.
