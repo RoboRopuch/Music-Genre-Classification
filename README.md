@@ -1,5 +1,8 @@
 # Music-Genre-Classification
 
+![image](https://github.com/RoboRopuch/Music-Genre-Classification/assets/128647614/c9fbb776-e47d-4ede-8a44-d40ca0903312)
+
+
 ## Description:
 The Music Genre Classification System aims to predict the genre of songs based on their audio features and metadata. It involves preprocessing audio data, training machine learning models, and deploying an API for making predictions. The project also includes conducting experiments to analyze user engagement and behavior.
 
